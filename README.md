@@ -108,6 +108,13 @@ have it yet.
 
 The release also has `lid-offlinefixes.dll` on its own, for anyone who only wants the plugin.
 
+**Switching it off.** From release 0.1.1 the package also brings a small
+**Offline Fixes** mod for LiD DB Editor 0.12.8 or newer. It changes nothing in
+the database; it is the plugin's switch in the mod list. Tick it and save to
+load the plugin; untick it and save, and the plugin is renamed to
+`lid-offlinefixes.dll.off`, which the Plugin Loader skips. Close the game
+first.
+
 It works alongside other plugins, such as LiD Death Metals, LiD Timers, LiD
 Login Bonus and Fighter Class Passives: they change different parts of the
 game.

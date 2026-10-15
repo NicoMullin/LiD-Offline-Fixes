@@ -1,0 +1,21 @@
+{
+  "id": "Offline Fixes",
+  "name": "Offline Fixes",
+  "description": "Switches lid-offlinefixes.dll on and off: tick it and save to load the fixes for the game's offline mode (no more closing on the spot when a Hater dies as you take the stairs), untick it and save to switch them off.",
+  "version": "0.1.0",
+  "author": "KSFA",
+  "category": "Fixes",
+  "tags": [
+    "fixes",
+    "crash",
+    "offline",
+    "plugin"
+  ],
+  "game_version": [
+    "5.0.4.1.0 - 1.89",
+    "5.0.4.1.0 - 1.89 (Steam 5.0.4.2.0)",
+    "5.0.4.4.0 - 1.91"
+  ],
+  "min_manager_version": "0.12.8",
+  "plugin": "lid-offlinefixes.dll"
+}

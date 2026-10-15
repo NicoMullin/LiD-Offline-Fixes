@@ -29,7 +29,7 @@ OUT = REPO / "out"
 # The release package (see package() below).
 PACKAGE = "LiD-Offline-Fixes"
 PACKAGE_NAME = "Offline Fixes"
-PACKAGE_MODS = []
+PACKAGE_MODS = ["Offline Fixes"]
 PACKAGE_REPLACES = []   # older plugin names the manager removes for this one
 
 
